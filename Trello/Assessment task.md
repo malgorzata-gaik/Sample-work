@@ -3,7 +3,7 @@
 
 While shopping may seem like an easy task, it can be frustrating and time-consuming. Use **Trello** to create a perfect shopping list and shop for groceries like a pro. 
 
-Here’s a tutorial on how to make a shopping list with three categories: **to buy**, **bought** and **not bought**. Hop right it and check it out!
+Here’s a tutorial on how to make a shopping list with three categories: **to buy**, **bought** and **not bought**. Hop right in and check it out!
 
 ### **Getting started**
 
